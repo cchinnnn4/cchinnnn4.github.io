@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shades of Pink",
-    "currentPage": "aboutme.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -54,7 +54,7 @@
         "url": "https://fonts.googleapis.com/css?family=Staatliches:400"
       }
     ],
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 92,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
