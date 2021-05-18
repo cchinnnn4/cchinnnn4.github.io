@@ -54,7 +54,7 @@
         "url": "https://fonts.googleapis.com/css?family=Staatliches:400"
       }
     ],
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 92,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
