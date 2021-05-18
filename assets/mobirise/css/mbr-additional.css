@@ -582,9 +582,6 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 .form-control {
   font-family: 'Staatliches', display;
   font-size: 4rem;
@@ -2649,57 +2646,6 @@ a {
 .cid-sxhff55QLx .item-subtitle {
   text-align: center;
 }
-.cid-sxhiMQLiw9 {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffe8e8;
-}
-.cid-sxhiMQLiw9 img,
-.cid-sxhiMQLiw9 .item-img {
-  width: 100%;
-}
-.cid-sxhiMQLiw9 .item:focus,
-.cid-sxhiMQLiw9 span:focus {
-  outline: none;
-}
-.cid-sxhiMQLiw9 .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-sxhiMQLiw9 .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #fafafa;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-sxhiMQLiw9 .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sxhiMQLiw9 .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-sxhiMQLiw9 .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-sxhiMQLiw9 .mbr-section-title {
-  color: #232323;
-}
-.cid-sxhiMQLiw9 .mbr-text,
-.cid-sxhiMQLiw9 .mbr-section-btn {
-  text-align: left;
-}
-.cid-sxhiMQLiw9 .item-title {
-  text-align: left;
-}
-.cid-sxhiMQLiw9 .item-subtitle {
-  text-align: center;
-}
 .cid-sxhjcNR8uK {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -2749,6 +2695,57 @@ a {
   text-align: left;
 }
 .cid-sxhjcNR8uK .item-subtitle {
+  text-align: center;
+}
+.cid-sxhiMQLiw9 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffe8e8;
+}
+.cid-sxhiMQLiw9 img,
+.cid-sxhiMQLiw9 .item-img {
+  width: 100%;
+}
+.cid-sxhiMQLiw9 .item:focus,
+.cid-sxhiMQLiw9 span:focus {
+  outline: none;
+}
+.cid-sxhiMQLiw9 .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sxhiMQLiw9 .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sxhiMQLiw9 .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sxhiMQLiw9 .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sxhiMQLiw9 .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sxhiMQLiw9 .mbr-section-title {
+  color: #232323;
+}
+.cid-sxhiMQLiw9 .mbr-text,
+.cid-sxhiMQLiw9 .mbr-section-btn {
+  text-align: left;
+}
+.cid-sxhiMQLiw9 .item-title {
+  text-align: left;
+}
+.cid-sxhiMQLiw9 .item-subtitle {
   text-align: center;
 }
 .cid-sxhjsQceM5 {
